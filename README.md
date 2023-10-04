@@ -48,13 +48,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import logpmf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-degenerate-logpmf@deno/mod.js';
+import logpmf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-degenerate-logpmf@v0.1.1-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-degenerate-logpmf@deno/mod.js';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-degenerate-logpmf@v0.1.1-deno/mod.js';
 ```
 
 #### logpmf( x, mu )
@@ -99,7 +99,7 @@ y = mylogpmf( 12.0 );
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@deno/mod.js';
-import logpmf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-degenerate-logpmf@deno/mod.js';
+import logpmf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-degenerate-logpmf@v0.1.1-deno/mod.js';
 
 var mu;
 var x;
