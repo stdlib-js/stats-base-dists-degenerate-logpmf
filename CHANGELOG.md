@@ -2,6 +2,63 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-01-18)
+
+<section class="features">
+
+### Features
+
+-   [`caaf8da`](https://github.com/stdlib-js/stdlib/commit/caaf8da7a9bec99cdabb651c11e1cf82650c02a5) - add C implementation for `stats/base/dists/degenerate/logpmf` [(#4584)](https://github.com/stdlib-js/stdlib/pull/4584)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3539](https://github.com/stdlib-js/stdlib/issues/3539)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`caaf8da`](https://github.com/stdlib-js/stdlib/commit/caaf8da7a9bec99cdabb651c11e1cf82650c02a5) - **feat:** add C implementation for `stats/base/dists/degenerate/logpmf` [(#4584)](https://github.com/stdlib-js/stdlib/pull/4584) _(by Karan Anand, Philipp Burckhardt, stdlib-bot)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Karan Anand
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-27)
