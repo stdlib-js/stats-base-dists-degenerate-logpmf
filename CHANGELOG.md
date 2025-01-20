@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`c4ef550`](https://github.com/stdlib-js/stdlib/commit/c4ef5500174a0d77a90b1a72be560938ac56d58d) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`caaf8da`](https://github.com/stdlib-js/stdlib/commit/caaf8da7a9bec99cdabb651c11e1cf82650c02a5) - **feat:** add C implementation for `stats/base/dists/degenerate/logpmf` [(#4584)](https://github.com/stdlib-js/stdlib/pull/4584) _(by Karan Anand, Philipp Burckhardt, stdlib-bot)_
 
 </details>
