@@ -1,39 +1,7 @@
+"use strict";var n=function(e,r){return function(){return r||e((r={exports:{}}).exports,r),r.exports}};var u=n(function(I,a){
+var i=require('@stdlib/math-base-assert-is-nan/dist'),N=require('@stdlib/constants-float64-ninf/dist');function q(e,r){return i(e)||i(r)?NaN:e===r?0:N}a.exports=q
+});var c=n(function(d,s){
+var v=require('@stdlib/utils-constant-function/dist'),o=require('@stdlib/math-base-assert-is-nan/dist'),p=require('@stdlib/constants-float64-ninf/dist');function y(e){if(o(e))return v(NaN);return r;function r(t){return o(t)?NaN:t===e?0:p}}s.exports=y
+});var l=require('@stdlib/utils-define-nonenumerable-read-only-property/dist'),f=u(),F=c();l(f,"factory",F);module.exports=f;
 /** @license Apache-2.0 */
-
-'use strict';
-
-/**
-* Natural logarithm of the probability mass function (PDF) for a degenerate distribution.
-*
-* @module @stdlib/stats-base-dists-degenerate-logpmf
-*
-* @example
-* var logpmf = require( '@stdlib/stats-base-dists-degenerate-logpmf' );
-*
-* var y = logpmf( 2.0, 0.0 );
-* // returns -Infinity
-*
-* @example
-* var factory = require( '@stdlib/stats-base-dists-degenerate-logpmf' ).factory;
-*
-* var logpmf = factory( 10.0 );
-*
-* var y = logpmf( 10.0 );
-* // returns 0.0
-*/
-
-// MODULES //
-
-var setReadOnly = require( '@stdlib/utils-define-nonenumerable-read-only-property/dist' );
-var main = require( './main.js' );
-var factory = require( './factory.js' );
-
-
-// MAIN //
-
-setReadOnly( main, 'factory', factory );
-
-
-// EXPORTS //
-
-module.exports = main;
+//# sourceMappingURL=index.js.map
