@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-08)
+## Unreleased (2026-08-26)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`36ee366`](https://github.com/stdlib-js/stdlib/commit/36ee366130c07464017ccf0b49b9645a8f644a5f) - **chore:** clean-up [(#13539)](https://github.com/stdlib-js/stdlib/pull/13539) _(by Philipp Burckhardt)_
 -   [`5dee19d`](https://github.com/stdlib-js/stdlib/commit/5dee19dbe000c3512c48f5546478b66a41a2a062) - **bench:** use consistent assertions [(#13229)](https://github.com/stdlib-js/stdlib/pull/13229) _(by Philipp Burckhardt)_
 -   [`83e6c53`](https://github.com/stdlib-js/stdlib/commit/83e6c53cb1b78e74ae7e012deff629ba8a6730c3) - **docs:** fix descriptions [(#12971)](https://github.com/stdlib-js/stdlib/pull/12971) _(by Philipp Burckhardt)_
 -   [`f59b324`](https://github.com/stdlib-js/stdlib/commit/f59b324c3c652580e17c4c4baae8168faab8af8c) - **docs:** fix typos and copy-paste errors in `stats` TypeScript declarations [(#12482)](https://github.com/stdlib-js/stdlib/pull/12482) _(by Philipp Burckhardt, Athan Reines)_
